@@ -1,0 +1,14 @@
+# Node modules (for Node.js projects)
+node_modules/
+
+# Log files
+*.log
+
+# .env files
+.env
+
+# OS-specific files (like macOS system files)
+.DS_Store
+
+# IDE-specific files (like VS Code workspace settings)
+.vscode/
